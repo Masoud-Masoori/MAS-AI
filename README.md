@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mas-AI Corporate Website
 
 Professional website for Mas-AI, showcasing AI innovation and enterprise solutions.
@@ -16,7 +15,3 @@ This site is ready for deployment on GitHub Pages, Netlify, Vercel, or any stati
 ## Contact
 - Email: masoud.masoori@mas-ai.co
 - Website: mas-ai.co
-=======
-# MAS-AI
-MAS-AI site
->>>>>>> 02e3535073527071b3c1f997100ece15884c67b2
